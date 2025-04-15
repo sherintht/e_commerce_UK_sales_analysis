@@ -1,2 +1,14 @@
-# e_commerce_UK_sales_analysis
-Performed PostgreSQL-based analysis and created interactive Power BI visuals to explore total sales, top products, best customers, sales by country, and time-based trends. The project provides key business insights from a UK-based e-commerce dataset.
+# 🛒 E-Commerce Data SQL Analysis
+
+This project analyzes an e-commerce transactions dataset using PostgreSQL.
+
+## 📦 Dataset
+
+- Source: `E-Commerce Data_UK_retailer.csv`
+- Contains transactional data from an online retail store:
+  - **Invoice**, **StockCode**, **Description**, **Quantity**
+  - **InvoiceDate**, **Price**, **CustomerID**, **Country**
+
+## 🧰 Tech Stack
+
+- PostgreSQL
